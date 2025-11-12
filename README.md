@@ -4,14 +4,14 @@
 
 ## Test Video
 
-[![Test Video](https://img.youtube.com/vi/LRUYP9ZXcmY/0.jpg)](https://www.youtube.com/watch?v=LRUYP9ZXcmY)
+[![Test Video](https://www.youtube.com/watch?v=LRUYP9ZXcmY)
 
 
 ---
 
 ## Project Video
 
-[![Watch the video](https://img.youtube.com/vi/enpU312Wr6s/0.jpg)](https://www.youtube.com/watch?v=enpU312Wr6s&t=385s)
+[![Watch the video] (https://www.youtube.com/watch?v=enpU312Wr6s)
 
 
 
